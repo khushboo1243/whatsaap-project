@@ -1,0 +1,465 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: white;
+    width: 1600px;
+    height: 70px;
+    /* margin: 0px; */
+
+}
+.previus-header{
+    background-color: darkcyan;
+    height: 110px;
+    width: 1840px;
+
+    /* margin: 0px; */
+
+}
+.whatapp-img{
+    height: 600px;
+    width: 300px;
+    margin-left: 100px;
+    margin-bottom: 200px;
+    margin-top: 70px;
+
+}
+.next-brder{
+    height: 900px;
+    width: 900px;
+    background-color:azure;
+    /* margin-left: 300px; */
+}
+.next-boder1{
+    background-color: gainsboro;
+    height: 900px;
+    width: 900px;
+    margin-left: 40px;
+    /* margin-left: 200px; */
+}
+.flax-boder{
+    display: flex;
+    /* margin-right: 100px; */
+    margin-left: 220px;
+}
+.button-1{
+    /* background-color: white;
+    color: deepskyblue;
+    height: 60px;
+    width: 300px;
+    margin-left: 750px;
+    margin-top: 100px;
+    border-radius: 26px; */
+    /* color: blue; */
+    padding: 10px;
+    height: 50px;
+    width: 210px;
+    border-radius: 25px;
+    margin-left: 800px;
+    margin-top: 80px;
+    background-color: white;
+    color: lightskyblue;
+    border: 2px solid lightskyblue
+}
+.boder-3{
+    background-color: darkslategray;
+    height: 400px;
+    width: 1840px;
+    margin-top: 90px;
+}
+.boder-4{
+    background-color: black;
+    height: 90px;
+    width: 1840px;
+
+}
+.p-1{
+    color: white;
+    margin-left: 500px;
+    /* margin-top: 50px; */
+
+
+    
+}
+.whatapp-1{
+    height: 400px;
+    width: 360px;
+    margin-top: 220px;
+    margin-left: 160px;
+}
+.emoj-img{
+    height: 400px;
+    width: 600px;
+    background-color: brown;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.main-emoji{
+    margin-bottom: 100px;
+    margin-top: 200px;
+}
+.head-2{
+    margin-left: 100px;
+    /* margin-bottom: 500px; */
+}
+.prag-2{
+    margin-left: 190px;
+    margin-top: 70px;
+}
+.what-small{
+    height: 50px;
+    width: 150px;
+    margin-left: 400px;
+    margin-top: 20px;
+    
+}
+.main-border{
+    display: flex;
+
+
+}
+.head1-1{
+    
+    margin-left: 100px;
+    margin-top: 50px;
+    color: white;
+
+}
+.head2{
+    
+    margin-left: 100px;
+    margin-top: 50px;
+    color: white;
+}
+
+.head3{
+
+    margin-left: 100px;
+    margin-top: 50px;
+    color: white;
+}
+.head4{
+    margin-left: 100px;
+    margin-top: 50px;
+    color: white;
+}
+.head5{
+    margin-left: 100px;
+    margin-top: 50px;
+    color: white;
+}
+.head6-6{
+    color: white;
+    margin-top: 40px;
+}
+.m-1{
+    display: flex;
+}
+.head7{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.main-div1{
+    margin-left: 60px;
+}
+.main-div2{
+    margin-left: 500px;
+    /* margin-top: 100px; */
+    margin-top: 160px;
+    font-size: 16px;
+    /* background-color: blueviolet; */
+}
+.h-1{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.h-2{
+    margin-left: 200px;
+    color: white;
+}
+.h-3{
+    margin-left: 200px;
+    color: white;
+}
+.h-4{
+    margin-left: 200px;
+    color: white;
+}
+.h-5{
+    margin-left: 700px;
+    color: white;
+    /* margin-bottom: 50px; */
+}
+.h-6{
+    margin-left: 700px;
+
+}
+.h-7{
+    margin-left: 700px;
+}
+.h-8{
+    margin-left: 700px;
+}
+.h-9{
+    margin-left: 1300px;
+}
+.h-10{
+    margin-left: 1300px;
+}
+.h-11{
+    margin-left: 1300px;
+}
+.h-12{
+    margin-left: 1300px;
+}
+
+.h-13{
+    margin-left: 1800;
+}
+.h-14{
+    margin-left: 1500;
+}
+.h-15{
+    margin-left: 1500;
+}
+.h-16{
+    margin-left: 1500px;
+}
+.main-flax2{
+    display: flex;
+}
+.heading{
+    margin-left: 150px;
+}
+.div{
+    /* margin-left: 80px; */
+    background-color:blue;
+}
+.b-1{
+    height: 50px;
+    width: 40px;
+    /* background-color: wheat; */
+    margin-left: 100px;
+    margin-bottom: 200px;
+}
+.carkal{
+    padding: 10px;
+    height: 350px;
+    width: 350px;
+    border-radius: 200px;
+    margin-left: 130px;
+    margin-top: 80px;
+    background-color: lightskyblue;
+  }
+.carkal-1{
+    background-color:white;
+    height: 80px;
+    width: 190px;
+    margin-left: 80px;
+    margin-top: 90px;
+    border-radius: 35px;
+    
+}
+.emoji-1{
+    height: 60px;
+    width: 60px;
+    /* margin-left: 100px; */
+
+}
+.hello{
+    /* background-color: blue; */
+    margin-top: 20px;
+    margin-left: 19px
+}
+.main-emo{
+    display: flex;
+}
+.apple-img{
+    background-color: blueviolet;
+    height: 17px;
+    width: 17px;
+    color: lightskyblue;
+}
+.main-apple{
+    display: flex;
+
+}
+.bag-img{
+    background-color: blue;
+    height: 17px;
+    width: 17px;
+    color: lightskyblue;
+
+    
+}
+.telavan-img{
+    height: 25px;
+    width: 20px;
+    color: lightskyblue;
+    background-color: lightskyblue;
+}
+.bag-main{
+    display: flex;
+    margin-top: 20px;
+}
+.main-talivagin{
+    display: flex;
+    margin-top: 20px;
+
+}
+.bag-main{
+    display: flex;
+    margin-top: 20px;
+
+
+}
+.h1{
+    color: lightskyblue;
+    margin-left: 10px;
+}
+.h2{
+    color: lightskyblue;
+    margin-left: 10px;
+}
+.h3{
+    color: lightskyblue;
+    margin-left: 10px;
+}
+.head-img{
+    /* background-color: brown; */
+    margin-left: 50px;
+    margin-bottom: 50px;
+
+}
+.boder-tag{
+    /* background-color: blueviolet; */
+    height: 1900;
+    width: 100px;
+    margin-left: 400px;
+    margin-top: 50px;
+    color: white;
+    font-size: 18px;
+    /* font-variant: small-caps; */
+    /* font-variant: normal; */
+    /* height: 10px; */
+    /* width: 10px; */
+    /* font-size: 10px; */
+    /* text-decoration:none */
+}
+.boder-tag1{
+    /* background-color: blue; */
+    height: 1900;
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 50px;
+    color: white;
+    font-size: 18px;
+}
+.boder-tag2{
+    /* background-color: blanchedalmond; */
+    height: 100px;
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 50px;
+    color: white;
+    font-size: 18px;
+}
+.boder-tag3{
+    /* background-color: aquamarine; */
+    height: 100px;
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 50px;
+    color: white;
+    font-size: 18px;
+}
+.main-tag{
+    display: flex;
+    margin-top: 50px;
+}
+.p-2{
+    /* background-color: blue; */
+    color: white;
+    height: 60px;
+    width: 200px;
+    margin-left: 1200px;
+    /* margin-top: 50px; */
+}
+.p1{
+    color: white;
+    /* background-color: aqua; */
+    /* margin-bottom: 100px; */
+
+    /* margin-top: 30px; */
+}
+.khusboo{
+    /* background-color: blueviolet; */
+    color: white;
+    display: flex;
+    margin-left: 200px;
+    
+}
+.k{
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 17px;
+}
+.h{
+    margin-left: 900px;
+    margin-top: 40px;
+    font-size: 17px;
+
+}
+.p{
+    font-size: 17px;
+
+}
+.s{
+    font-size: 33px;
+    /* margin-top: 10px; */
+}
+.r{
+    font-size: 33px;
+    margin-top: 10px;
+}
+.h1{
+    font-size: 16px;
+}
+.h2{
+    font-size: 16px;
+}
+.h3{
+    font-size: 17px;
+    
+}
+.d{
+    font-size: 15px;
+    margin-top: 25px;
+}
+.d1{
+    font-size: 15px;
+    /* margin-left: px; */
+    margin-top: 20px;
+
+}
+.p3{
+    margin-top: 10px;
+    font-size: 18px;
+
+}
+.p2{ 
+     margin-top: 10px; 
+}
+.p1{
+    font-size: 20px;
+    margin-top: 12px;
+}
+.o{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.emoji-1{
+    height: 50px;
+    width: 80px;
+}
